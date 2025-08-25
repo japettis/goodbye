@@ -4,6 +4,7 @@ package prob1;
  * Represents a baskeball playerZZZ
  *
  */
+//Jakena Pettis
 public class BasketballPlayer {
 
 	/**
